@@ -1,0 +1,17 @@
+{
+  "family": "Alimama FangYuanTi VF",
+  "version": "1.000",
+  "axes": {
+    "wght": {
+      "min": 200,
+      "max": 700
+    },
+    "BEVL": {
+      "min": 1,
+      "max": 100
+    }
+  },
+  "sha256": "8d359c38cf2530a066abdfa0cd7302c94f840b2aea0e34c44dd25aff5660b117",
+  "source": "https://registry.npmjs.org/@fontpkg/alimama-fang-yuan-ti-vf",
+  "official": "https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR"
+}

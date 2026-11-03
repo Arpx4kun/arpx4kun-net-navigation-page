@@ -1,0 +1,2961 @@
+[
+  {
+    "id": "0",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "cat": 0,
+    "desc": "对话、写作与创作",
+    "icon": "GPT",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "ChatGPT",
+    "tags": [
+      "ChatGPT",
+      "对话、写作与创作"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "1",
+    "name": "Gemini",
+    "url": "https://gemini.google.com",
+    "cat": 0,
+    "desc": "Google AI 助手",
+    "icon": "✦",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Gemini",
+    "tags": [
+      "谷歌 AI 助手",
+      "Gemini",
+      "Google AI 助手"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "2",
+    "name": "DeepSeek",
+    "url": "https://chat.deepseek.com",
+    "cat": 0,
+    "desc": "推理与代码",
+    "icon": "DS",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "",
+    "nameEn": "DeepSeek",
+    "tags": [
+      "深度求索",
+      "DeepSeek",
+      "推理与代码"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "3",
+    "name": "Kimi",
+    "url": "https://www.kimi.com",
+    "cat": 0,
+    "desc": "长文阅读与分析",
+    "icon": "K",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "",
+    "nameEn": "Kimi",
+    "tags": [
+      "Kimi 智能助手",
+      "Kimi",
+      "长文阅读与分析"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "4",
+    "name": "千问",
+    "url": "https://www.qianwen.com",
+    "cat": 0,
+    "desc": "阿里 AI 助手",
+    "icon": "千",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "千问",
+    "nameEn": "Qwen",
+    "tags": [
+      "千问",
+      "Qwen",
+      "阿里 AI 助手"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "5",
+    "name": "腾讯元宝",
+    "url": "https://yuanbao.tencent.com",
+    "cat": 0,
+    "desc": "腾讯 AI 助手",
+    "icon": "元",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "腾讯元宝",
+    "nameEn": "Tencent Yuanbao",
+    "tags": [
+      "腾讯元宝",
+      "Tencent Yuanbao",
+      "元宝",
+      "腾讯 AI 助手"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "6",
+    "name": "智谱清言",
+    "url": "https://chatglm.cn",
+    "cat": 0,
+    "desc": "问答与智能创作",
+    "icon": "GLM",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "智谱清言",
+    "nameEn": "ChatGLM",
+    "tags": [
+      "智谱清言",
+      "ChatGLM",
+      "问答与智能创作"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "7",
+    "name": "Canvas",
+    "url": "https://canvas.auckland.ac.nz",
+    "cat": 1,
+    "desc": "课程、作业与通知",
+    "icon": "C",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Canvas",
+    "tags": [
+      "课程平台",
+      "Canvas",
+      "课程、作业与通知"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "8",
+    "name": "奥克兰大学",
+    "url": "https://www.auckland.ac.nz",
+    "cat": 1,
+    "desc": "奥克兰大学官网",
+    "icon": "UoA",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "奥克兰大学",
+    "nameEn": "University of Auckland",
+    "tags": [
+      "奥克兰大学",
+      "University of Auckland",
+      "UoA",
+      "奥克兰大学官网"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "9",
+    "name": "头歌",
+    "url": "https://www.educoder.net",
+    "cat": 1,
+    "desc": "实践教学与编程训练",
+    "icon": "头",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "头歌",
+    "nameEn": "EduCoder",
+    "tags": [
+      "头歌",
+      "EduCoder",
+      "实践教学与编程训练"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "10",
+    "name": "Cloudcampus",
+    "url": "",
+    "cat": 1,
+    "desc": "原收藏地址待补全",
+    "icon": "CC",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Cloudcampus",
+    "tags": [
+      "云课堂",
+      "Cloudcampus",
+      "原收藏地址待补全"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "11",
+    "name": "实验",
+    "url": "edge://flags",
+    "cat": 3,
+    "desc": "Microsoft Edge 实验性功能页面",
+    "icon": "⚗",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "实验",
+    "nameEn": "Edge Flags",
+    "tags": [
+      "Edge",
+      "edge://flags",
+      "实验性功能",
+      "浏览器实验",
+      "flags"
+    ],
+    "primaryLang": "zh",
+    "internal": true
+  },
+  {
+    "id": "12",
+    "name": "校园网登录",
+    "url": "",
+    "cat": 1,
+    "desc": "请补充校园认证地址",
+    "icon": "网",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "校园网登录",
+    "nameEn": "Campus Network",
+    "tags": [
+      "校园网登录",
+      "Campus Network",
+      "请补充校园认证地址"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "13",
+    "name": "UOA Email",
+    "url": "https://mail.aucklanduni.ac.nz",
+    "cat": 2,
+    "desc": "奥克兰大学学生邮箱",
+    "icon": "U",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "奥大学生邮箱",
+    "nameEn": "UOA Email",
+    "tags": [
+      "奥大学生邮箱",
+      "UoA email",
+      "奥克兰大学学生邮箱"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "14",
+    "name": "Gmail",
+    "url": "https://mail.google.com",
+    "cat": 2,
+    "desc": "Google 邮箱",
+    "icon": "M",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Gmail",
+    "tags": [
+      "谷歌邮箱",
+      "Gmail",
+      "Google 邮箱"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "15",
+    "name": "QQ邮箱",
+    "url": "https://mail.qq.com",
+    "cat": 2,
+    "desc": "腾讯邮箱",
+    "icon": "QQ",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "QQ邮箱",
+    "nameEn": "QQ Mail",
+    "tags": [
+      "QQ邮箱",
+      "QQ Mail",
+      "腾讯邮箱"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "16",
+    "name": "Outlook",
+    "url": "https://outlook.live.com/mail/",
+    "cat": 2,
+    "desc": "Microsoft 邮箱",
+    "icon": "O",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Outlook",
+    "tags": [
+      "微软邮箱",
+      "Outlook",
+      "Microsoft 邮箱"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "17",
+    "name": "Microsoft Teams",
+    "url": "https://teams.microsoft.com",
+    "cat": 4,
+    "desc": "会议与团队协作",
+    "icon": "T",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Microsoft Teams",
+    "tags": [
+      "微软协作",
+      "Microsoft Teams",
+      "Teams",
+      "会议与团队协作"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "18",
+    "name": "谷歌",
+    "url": "https://www.google.com",
+    "cat": 3,
+    "desc": "搜索整个互联网",
+    "icon": "G",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "谷歌",
+    "nameEn": "Google",
+    "tags": [
+      "谷歌搜索",
+      "Google",
+      "搜索整个互联网"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "19",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "cat": 13,
+    "desc": "代码、项目与开源",
+    "icon": "GH",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "GitHub",
+    "tags": [
+      "代码托管",
+      "GitHub",
+      "代码、项目与开源"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "20",
+    "name": "维基百科",
+    "url": "https://www.wikipedia.org",
+    "cat": 3,
+    "desc": "自由的百科全书",
+    "icon": "W",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "维基百科",
+    "nameEn": "Wikipedia",
+    "tags": [
+      "维基百科",
+      "Wikipedia",
+      "自由的百科全书"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "21",
+    "name": "百度翻译",
+    "url": "https://fanyi.baidu.com",
+    "cat": 3,
+    "desc": "中文与多语言翻译",
+    "icon": "译",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "百度翻译",
+    "nameEn": "Baidu Translate",
+    "tags": [
+      "百度翻译",
+      "Baidu Translate",
+      "中文与多语言翻译"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "22",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator",
+    "cat": 3,
+    "desc": "翻译与语言润色",
+    "icon": "DL",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "DeepL",
+    "tags": [
+      "DeepL 翻译",
+      "DeepL",
+      "深度翻译",
+      "翻译与语言润色"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "23",
+    "name": "幕布",
+    "url": "https://mubu.com",
+    "cat": 3,
+    "desc": "大纲笔记与思维导图",
+    "icon": "幕",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "幕布",
+    "nameEn": "Mubu",
+    "tags": [
+      "幕布",
+      "Mubu",
+      "大纲笔记与思维导图"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "24",
+    "name": "知乎",
+    "url": "https://www.zhihu.com",
+    "cat": 4,
+    "desc": "问题与经验",
+    "icon": "知",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "知乎",
+    "nameEn": "Zhihu",
+    "tags": [
+      "知乎",
+      "Zhihu",
+      "问题与经验"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "25",
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "cat": 4,
+    "desc": "视频与频道",
+    "icon": "▶",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "YouTube",
+    "tags": [
+      "油管",
+      "YouTube",
+      "视频与频道"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "26",
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "cat": 4,
+    "desc": "兴趣社区与讨论",
+    "icon": "r/",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Reddit",
+    "tags": [
+      "红迪",
+      "Reddit",
+      "兴趣社区与讨论"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "27",
+    "name": "Quora",
+    "url": "https://www.quora.com",
+    "cat": 4,
+    "desc": "问答与观点",
+    "icon": "Q",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Quora",
+    "tags": [
+      "问答社区",
+      "Quora",
+      "问答与观点"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "28",
+    "name": "Discord",
+    "url": "https://discord.com/app",
+    "cat": 4,
+    "desc": "社群与语音",
+    "icon": "D",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Discord",
+    "tags": [
+      "社群聊天",
+      "Discord",
+      "社群与语音"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "29",
+    "name": "Facebook",
+    "url": "https://www.facebook.com",
+    "cat": 4,
+    "desc": "朋友与动态",
+    "icon": "f",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Facebook",
+    "tags": [
+      "脸书",
+      "Facebook",
+      "朋友与动态"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "30",
+    "name": "推特",
+    "url": "https://x.com",
+    "cat": 4,
+    "desc": "实时信息与讨论",
+    "icon": "𝕏",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "推特",
+    "nameEn": "Twitter / X",
+    "tags": [
+      "推特",
+      "Twitter / X",
+      "实时信息与讨论"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "31",
+    "name": "Twitch",
+    "url": "https://www.twitch.tv",
+    "cat": 4,
+    "desc": "直播与游戏",
+    "icon": "Tw",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Twitch",
+    "tags": [
+      "游戏直播",
+      "Twitch",
+      "直播与游戏"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "32",
+    "name": "Instagram",
+    "url": "https://www.instagram.com",
+    "cat": 4,
+    "desc": "照片与生活灵感",
+    "icon": "◎",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Instagram",
+    "tags": [
+      "照片社交",
+      "Instagram",
+      "照片与生活灵感"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "33",
+    "name": "哔哩哔哩",
+    "url": "https://www.bilibili.com",
+    "cat": 4,
+    "desc": "视频、学习与兴趣",
+    "icon": "哔",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "哔哩哔哩",
+    "nameEn": "Bilibili",
+    "tags": [
+      "哔哩哔哩",
+      "Bilibili",
+      "视频、学习与兴趣"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "34",
+    "name": "谷歌地图",
+    "url": "https://maps.google.com",
+    "cat": 5,
+    "desc": "全球地图与路线",
+    "icon": "Gm",
+    "source": "截图",
+    "pin": true,
+    "region": "global",
+    "nameZh": "谷歌地图",
+    "nameEn": "Google Maps",
+    "tags": [
+      "谷歌地图",
+      "Google Maps",
+      "全球地图与路线"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "35",
+    "name": "谷歌地球",
+    "url": "https://earth.google.com/web/",
+    "cat": 5,
+    "desc": "从卫星视角探索地球",
+    "icon": "◎",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "谷歌地球",
+    "nameEn": "Google Earth",
+    "tags": [
+      "谷歌地球",
+      "Google Earth",
+      "从卫星视角探索地球"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "36",
+    "name": "开放街图",
+    "url": "https://www.openstreetmap.org",
+    "cat": 5,
+    "desc": "开放地图",
+    "icon": "OSM",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "开放街图",
+    "nameEn": "OpenStreetMap",
+    "tags": [
+      "开放街图",
+      "OpenStreetMap",
+      "开放地图"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "37",
+    "name": "百度地图",
+    "url": "https://map.baidu.com",
+    "cat": 5,
+    "desc": "国内地点与路线",
+    "icon": "百",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "百度地图",
+    "nameEn": "Baidu Maps",
+    "tags": [
+      "百度地图",
+      "Baidu Maps",
+      "国内地点与路线"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "38",
+    "name": "高德地图",
+    "url": "https://www.amap.com",
+    "cat": 5,
+    "desc": "国内导航与出行",
+    "icon": "高",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "高德地图",
+    "nameEn": "Amap",
+    "tags": [
+      "高德地图",
+      "Amap",
+      "国内导航与出行"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "39",
+    "name": "Carousell NZ",
+    "url": "https://www.carousell.com",
+    "cat": 6,
+    "desc": "品牌入口 · 原 NZ 地址待核实",
+    "icon": "Ca",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Carousell NZ",
+    "tags": [
+      "旋转拍卖 NZ",
+      "Carousell NZ",
+      "品牌入口 · 原 NZ 地址待核实",
+      "Carousell New Zealand"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "40",
+    "name": "Trade Me",
+    "url": "https://www.trademe.co.nz",
+    "cat": 6,
+    "desc": "新西兰本地交易",
+    "icon": "TM",
+    "source": "截图",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Trade Me",
+    "tags": [
+      "新西兰交易",
+      "Trade Me",
+      "新西兰本地交易"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "41",
+    "name": "闲鱼",
+    "url": "https://www.goofish.com",
+    "cat": 6,
+    "desc": "二手交易与闲置",
+    "icon": "鱼",
+    "source": "截图",
+    "pin": false,
+    "region": "cn",
+    "nameZh": "闲鱼",
+    "nameEn": "Goofish",
+    "tags": [
+      "闲鱼",
+      "Goofish",
+      "二手交易与闲置"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "42",
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "cat": 0,
+    "desc": "写作、阅读与代码",
+    "icon": "Cl",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Claude",
+    "tags": [
+      "Claude 智能助手",
+      "Claude",
+      "写作、阅读与代码"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "43",
+    "name": "UOA Library",
+    "url": "https://www.auckland.ac.nz/en/library.html",
+    "cat": 1,
+    "desc": "文献、数据库与学习空间",
+    "icon": "Lib",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "奥大图书馆",
+    "nameEn": "UOA Library",
+    "tags": [
+      "奥大图书馆",
+      "UoA Library",
+      "UoA 图书馆",
+      "文献、数据库与学习空间"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "44",
+    "name": "谷歌学术",
+    "url": "https://scholar.google.com",
+    "cat": 1,
+    "desc": "学术文献检索",
+    "icon": "Gs",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "谷歌学术",
+    "nameEn": "Google Scholar",
+    "tags": [
+      "谷歌学术",
+      "Google Scholar",
+      "学术文献检索"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "45",
+    "name": "Overleaf",
+    "url": "https://www.overleaf.com",
+    "cat": 1,
+    "desc": "LaTeX 论文与协作",
+    "icon": "Ov",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "Overleaf",
+    "tags": [
+      "在线论文编辑",
+      "Overleaf",
+      "LaTeX 论文与协作"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "46",
+    "name": "谷歌云盘",
+    "url": "https://drive.google.com",
+    "cat": 2,
+    "desc": "文件存储与共享",
+    "icon": "Dr",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "谷歌云盘",
+    "nameEn": "Google Drive",
+    "tags": [
+      "谷歌云盘",
+      "Google Drive",
+      "文件存储与共享"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "47",
+    "name": "谷歌日历",
+    "url": "https://calendar.google.com",
+    "cat": 2,
+    "desc": "课程、日程与提醒",
+    "icon": "31",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "谷歌日历",
+    "nameEn": "Google Calendar",
+    "tags": [
+      "谷歌日历",
+      "Google Calendar",
+      "课程、日程与提醒"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "48",
+    "name": "奥克兰交通",
+    "url": "https://at.govt.nz",
+    "cat": 5,
+    "desc": "奥克兰公共交通",
+    "icon": "AT",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "奥克兰交通",
+    "nameEn": "Auckland Transport",
+    "tags": [
+      "奥克兰交通",
+      "Auckland Transport",
+      "奥克兰公共交通"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "49",
+    "name": "MetService",
+    "url": "https://www.metservice.com",
+    "cat": 3,
+    "desc": "新西兰天气预报",
+    "icon": "☁",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "nameZh": "",
+    "nameEn": "MetService",
+    "tags": [
+      "新西兰天气",
+      "MetService",
+      "新西兰天气预报"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-proton",
+    "name": "Proton Mail",
+    "nameZh": "",
+    "nameEn": "Proton Mail",
+    "url": "https://mail.proton.me",
+    "cat": 2,
+    "desc": "加密邮箱与隐私通信",
+    "icon": "Pr",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "Proton 邮箱",
+      "Proton Mail",
+      "加密邮箱与隐私通信"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-bing",
+    "name": "必应搜索",
+    "nameZh": "必应搜索",
+    "nameEn": "Bing",
+    "url": "https://www.bing.com",
+    "cat": 3,
+    "desc": "微软网页与图像搜索",
+    "icon": "Bi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "必应搜索",
+      "Bing",
+      "微软网页与图像搜索"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-duckduckgo",
+    "name": "DuckDuckGo",
+    "nameZh": "",
+    "nameEn": "DuckDuckGo",
+    "url": "https://duckduckgo.com",
+    "cat": 3,
+    "desc": "隐私导向的搜索引擎",
+    "icon": "Du",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "隐私搜索",
+      "DuckDuckGo",
+      "隐私导向的搜索引擎"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-yahoo",
+    "name": "雅虎财经",
+    "nameZh": "雅虎财经",
+    "nameEn": "Yahoo Finance",
+    "url": "https://finance.yahoo.com",
+    "cat": 7,
+    "desc": "全球行情、财经资讯与财报",
+    "icon": "Ya",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "雅虎财经",
+      "Yahoo Finance",
+      "全球行情、财经资讯与财报"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-googlefinance",
+    "name": "谷歌财经",
+    "nameZh": "谷歌财经",
+    "nameEn": "Google Finance",
+    "url": "https://www.google.com/finance/",
+    "cat": 7,
+    "desc": "行情、指数与财经资讯",
+    "icon": "Go",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "谷歌财经",
+      "Google Finance",
+      "行情、指数与财经资讯"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-tradingview",
+    "name": "TradingView",
+    "nameZh": "",
+    "nameEn": "TradingView",
+    "url": "https://www.tradingview.com",
+    "cat": 7,
+    "desc": "市场图表与技术分析",
+    "icon": "Tr",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "交易视图",
+      "TradingView",
+      "市场图表与技术分析"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-investing",
+    "name": "英为财情",
+    "nameZh": "英为财情",
+    "nameEn": "Investing.com",
+    "url": "https://www.investing.com",
+    "cat": 7,
+    "desc": "市场数据与财经日历",
+    "icon": "In",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "英为财情",
+      "Investing.com",
+      "市场数据与财经日历"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-eastmoney",
+    "name": "东方财富",
+    "nameZh": "东方财富",
+    "nameEn": "Eastmoney",
+    "url": "https://www.eastmoney.com",
+    "cat": 7,
+    "desc": "中国财经资讯与行情",
+    "icon": "Ea",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "东方财富",
+      "Eastmoney",
+      "中国财经资讯与行情"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-xueqiu",
+    "name": "雪球",
+    "nameZh": "雪球",
+    "nameEn": "Xueqiu",
+    "url": "https://xueqiu.com",
+    "cat": 7,
+    "desc": "投资社区与上市公司资讯",
+    "icon": "Xu",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "雪球",
+      "Xueqiu",
+      "投资社区与上市公司资讯"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-ths",
+    "name": "同花顺",
+    "nameZh": "同花顺",
+    "nameEn": "THS Finance",
+    "url": "https://www.10jqka.com.cn",
+    "cat": 7,
+    "desc": "中国市场数据与财经资讯",
+    "icon": "TH",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "同花顺",
+      "THS Finance",
+      "中国市场数据与财经资讯"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-osintframework",
+    "name": "OSINT Framework",
+    "nameZh": "",
+    "nameEn": "OSINT Framework",
+    "url": "https://osintframework.com",
+    "cat": 8,
+    "desc": "按研究任务检索工具的目录",
+    "icon": "OS",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "开源情报框架",
+      "OSINT Framework",
+      "按研究任务检索工具的目录"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-bellingcattoolkit",
+    "name": "Bellingcat Toolkit",
+    "nameZh": "",
+    "nameEn": "Bellingcat Toolkit",
+    "url": "https://bellingcat.gitbook.io/toolkit",
+    "cat": 8,
+    "desc": "开源调查工具与使用指南",
+    "icon": "Be",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "贝灵猫工具箱",
+      "Bellingcat Toolkit",
+      "开源调查工具与使用指南"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-bellingcat",
+    "name": "Bellingcat",
+    "nameZh": "",
+    "nameEn": "Bellingcat",
+    "url": "https://www.bellingcat.com",
+    "cat": 8,
+    "desc": "开源调查案例与方法",
+    "icon": "Be",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "贝灵猫调查",
+      "Bellingcat",
+      "开源调查案例与方法"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-gijn",
+    "name": "全球深度报道网",
+    "nameZh": "全球深度报道网",
+    "nameEn": "GIJN Resource Center",
+    "url": "https://gijn.org/resource/",
+    "cat": 8,
+    "desc": "调查报道指南与研究资源",
+    "icon": "GI",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "全球深度报道网",
+      "GIJN Resource Center",
+      "调查报道指南与研究资源"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-inteltechniques",
+    "name": "IntelTechniques",
+    "nameZh": "",
+    "nameEn": "IntelTechniques",
+    "url": "https://inteltechniques.com/tools/",
+    "cat": 8,
+    "desc": "公开来源检索工具目录",
+    "icon": "In",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "情报检索工具",
+      "IntelTechniques",
+      "公开来源检索工具目录"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-shodan",
+    "name": "Shodan",
+    "nameZh": "",
+    "nameEn": "Shodan",
+    "url": "https://www.shodan.io",
+    "cat": 9,
+    "desc": "公开网络服务与资产检索",
+    "icon": "Sh",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "网络设备搜索",
+      "Shodan",
+      "公开网络服务与资产检索"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-censys",
+    "name": "Censys",
+    "nameZh": "",
+    "nameEn": "Censys",
+    "url": "https://platform.censys.io",
+    "cat": 9,
+    "desc": "网络主机、证书与资产数据",
+    "icon": "Ce",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "网络情报平台",
+      "Censys",
+      "网络主机、证书与资产数据"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-crt",
+    "name": "crt.sh",
+    "nameZh": "",
+    "nameEn": "crt.sh",
+    "url": "https://crt.sh",
+    "cat": 9,
+    "desc": "公开证书与关联域名查询",
+    "icon": "cr",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "证书透明度检索",
+      "crt.sh",
+      "公开证书与关联域名查询"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-urlscan",
+    "name": "urlscan.io",
+    "nameZh": "",
+    "nameEn": "urlscan.io",
+    "url": "https://urlscan.io",
+    "cat": 9,
+    "desc": "公开网页扫描与历史记录",
+    "icon": "ur",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "网页扫描记录",
+      "urlscan.io",
+      "公开网页扫描与历史记录"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-virustotal",
+    "name": "VirusTotal",
+    "nameZh": "",
+    "nameEn": "VirusTotal",
+    "url": "https://www.virustotal.com/gui/home/search",
+    "cat": 9,
+    "desc": "文件、域名与 URL 情报检索",
+    "icon": "Vi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "威胁情报检索",
+      "VirusTotal",
+      "文件、域名与 URL 情报检索"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-viewdns",
+    "name": "ViewDNS",
+    "nameZh": "",
+    "nameEn": "ViewDNS",
+    "url": "https://viewdns.info",
+    "cat": 9,
+    "desc": "DNS、IP 与域名历史工具",
+    "icon": "Vi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "域名与 DNS 查询",
+      "ViewDNS",
+      "DNS、IP 与域名历史工具"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-securitytrails",
+    "name": "SecurityTrails",
+    "nameZh": "",
+    "nameEn": "SecurityTrails",
+    "url": "https://securitytrails.com",
+    "cat": 9,
+    "desc": "DNS 历史与子域名数据",
+    "icon": "Se",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "域名历史数据",
+      "SecurityTrails",
+      "DNS 历史与子域名数据"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-icann",
+    "name": "ICANN Lookup",
+    "nameZh": "",
+    "nameEn": "ICANN Lookup",
+    "url": "https://lookup.icann.org",
+    "cat": 9,
+    "desc": "公开域名注册数据查询",
+    "icon": "IC",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "域名注册信息",
+      "ICANN Lookup",
+      "公开域名注册数据查询"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-fofa",
+    "name": "FOFA",
+    "nameZh": "",
+    "nameEn": "FOFA",
+    "url": "https://fofa.info",
+    "cat": 9,
+    "desc": "网络资产与服务搜索",
+    "icon": "FO",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "网络空间测绘",
+      "FOFA",
+      "网络资产与服务搜索"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-threatbook",
+    "name": "微步在线",
+    "nameZh": "微步在线",
+    "nameEn": "ThreatBook",
+    "url": "https://x.threatbook.com",
+    "cat": 9,
+    "desc": "威胁情报与安全分析",
+    "icon": "Th",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "微步在线",
+      "ThreatBook",
+      "威胁情报与安全分析"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-nasa",
+    "name": "NASA Worldview",
+    "nameZh": "",
+    "nameEn": "NASA Worldview",
+    "url": "https://worldview.earthdata.nasa.gov",
+    "cat": 10,
+    "desc": "全球卫星影像与时间对比",
+    "icon": "NA",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "NASA 全球影像",
+      "NASA Worldview",
+      "全球卫星影像与时间对比"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-copernicus",
+    "name": "Copernicus Browser",
+    "nameZh": "",
+    "nameEn": "Copernicus Browser",
+    "url": "https://browser.dataspace.copernicus.eu",
+    "cat": 10,
+    "desc": "卫星数据与多时相影像",
+    "icon": "Co",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "哥白尼影像浏览",
+      "Copernicus Browser",
+      "卫星数据与多时相影像"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-flightradar",
+    "name": "Flightradar24",
+    "nameZh": "",
+    "nameEn": "Flightradar24",
+    "url": "https://www.flightradar24.com",
+    "cat": 10,
+    "desc": "实时航班与历史航迹",
+    "icon": "Fl",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "航班雷达",
+      "Flightradar24",
+      "实时航班与历史航迹"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-adsb",
+    "name": "ADS-B Exchange",
+    "nameZh": "",
+    "nameEn": "ADS-B Exchange",
+    "url": "https://globe.adsbexchange.com",
+    "cat": 10,
+    "desc": "航空器位置与公开航迹",
+    "icon": "AD",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "ADS-B 航迹",
+      "ADS-B Exchange",
+      "航空器位置与公开航迹"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-marinetraffic",
+    "name": "MarineTraffic",
+    "nameZh": "",
+    "nameEn": "MarineTraffic",
+    "url": "https://www.marinetraffic.com",
+    "cat": 10,
+    "desc": "船舶位置与港口动态",
+    "icon": "Ma",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "船舶动态",
+      "MarineTraffic",
+      "船舶位置与港口动态"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-vesselfinder",
+    "name": "VesselFinder",
+    "nameZh": "",
+    "nameEn": "VesselFinder",
+    "url": "https://www.vesselfinder.com",
+    "cat": 10,
+    "desc": "AIS 船舶与航运信息",
+    "icon": "Ve",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "船舶查询",
+      "VesselFinder",
+      "AIS 船舶与航运信息"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-mapillary",
+    "name": "Mapillary",
+    "nameZh": "",
+    "nameEn": "Mapillary",
+    "url": "https://www.mapillary.com",
+    "cat": 10,
+    "desc": "街道影像与地图定位",
+    "icon": "Ma",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "众包街景",
+      "Mapillary",
+      "街道影像与地图定位"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-openaerial",
+    "name": "开放航拍地图",
+    "nameZh": "开放航拍地图",
+    "nameEn": "OpenAerialMap",
+    "url": "https://openaerialmap.org",
+    "cat": 10,
+    "desc": "开放授权的航空影像",
+    "icon": "Op",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "开放航拍地图",
+      "OpenAerialMap",
+      "开放授权的航空影像"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-wayback",
+    "name": "互联网时光机",
+    "nameZh": "互联网时光机",
+    "nameEn": "Wayback Machine",
+    "url": "https://web.archive.org",
+    "cat": 11,
+    "desc": "网页历史快照与存档",
+    "icon": "Wa",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "互联网时光机",
+      "Wayback Machine",
+      "网页历史快照与存档"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-archive",
+    "name": "互联网档案馆",
+    "nameZh": "互联网档案馆",
+    "nameEn": "Internet Archive",
+    "url": "https://archive.org",
+    "cat": 11,
+    "desc": "书籍、影音与数字档案",
+    "icon": "In",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "互联网档案馆",
+      "Internet Archive",
+      "书籍、影音与数字档案"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-tineye",
+    "name": "TinEye",
+    "nameZh": "",
+    "nameEn": "TinEye",
+    "url": "https://www.tineye.com",
+    "cat": 11,
+    "desc": "图片来源与相似图片检索",
+    "icon": "Ti",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "反向图片搜索",
+      "TinEye",
+      "图片来源与相似图片检索"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-lens",
+    "name": "谷歌识图",
+    "nameZh": "谷歌识图",
+    "nameEn": "Google Lens",
+    "url": "https://lens.google.com",
+    "cat": 11,
+    "desc": "视觉识别与反向图片检索",
+    "icon": "Go",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "谷歌识图",
+      "Google Lens",
+      "视觉识别与反向图片检索"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-invid",
+    "name": "InVID Verification",
+    "nameZh": "",
+    "nameEn": "InVID Verification",
+    "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/",
+    "cat": 11,
+    "desc": "图像与视频核查插件介绍",
+    "icon": "In",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "影像核查工具",
+      "InVID Verification",
+      "图像与视频核查插件介绍"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-piyao",
+    "name": "中国联合辟谣平台",
+    "nameZh": "中国联合辟谣平台",
+    "nameEn": "China Fact Check",
+    "url": "https://www.piyao.org.cn",
+    "cat": 11,
+    "desc": "公开辟谣与事实核查信息",
+    "icon": "Ch",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "中国联合辟谣平台",
+      "China Fact Check",
+      "公开辟谣与事实核查信息"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-tianyancha",
+    "name": "天眼查",
+    "nameZh": "天眼查",
+    "nameEn": "Tianyancha",
+    "url": "https://www.tianyancha.com",
+    "cat": 12,
+    "desc": "中国企业与工商关联信息",
+    "icon": "Ti",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "天眼查",
+      "Tianyancha",
+      "中国企业与工商关联信息"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-qcc",
+    "name": "企查查",
+    "nameZh": "企查查",
+    "nameEn": "Qichacha",
+    "url": "https://www.qcc.com",
+    "cat": 12,
+    "desc": "企业登记与公开商业信息",
+    "icon": "Qi",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "企查查",
+      "Qichacha",
+      "企业登记与公开商业信息"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-gsxt",
+    "name": "国家企业信用公示",
+    "nameZh": "国家企业信用公示",
+    "nameEn": "GSXT",
+    "url": "https://www.gsxt.gov.cn",
+    "cat": 12,
+    "desc": "中国企业登记与信用公示",
+    "icon": "GS",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "国家企业信用公示",
+      "GSXT",
+      "中国企业登记与信用公示"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-opencorporates",
+    "name": "OpenCorporates",
+    "nameZh": "",
+    "nameEn": "OpenCorporates",
+    "url": "https://opencorporates.com",
+    "cat": 12,
+    "desc": "全球公司登记信息聚合",
+    "icon": "Op",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "全球公司数据库",
+      "OpenCorporates",
+      "全球公司登记信息聚合"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "nov-nzcompanies",
+    "name": "新西兰公司登记",
+    "nameZh": "新西兰公司登记",
+    "nameEn": "NZ Companies Register",
+    "url": "https://companies-register.companiesoffice.govt.nz",
+    "cat": 12,
+    "desc": "新西兰官方公司注册信息",
+    "icon": "NZ",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "新西兰公司登记",
+      "NZ Companies Register",
+      "新西兰官方公司注册信息"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "nov-nzdata",
+    "name": "新西兰开放数据",
+    "nameZh": "新西兰开放数据",
+    "nameEn": "data.govt.nz",
+    "url": "https://data.govt.nz",
+    "cat": 12,
+    "desc": "新西兰政府开放数据目录",
+    "icon": "da",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "新西兰开放数据",
+      "data.govt.nz",
+      "新西兰政府开放数据目录"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-gptzero",
+    "name": "GPTZero",
+    "nameZh": "",
+    "nameEn": "GPTZero",
+    "url": "https://gptzero.me",
+    "cat": 1,
+    "desc": "AI 生成文本检测与写作分析",
+    "icon": "GP",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "AI 文本检测",
+      "GPTZero",
+      "AI 生成文本检测与写作分析"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-linkedin",
+    "name": "领英",
+    "nameZh": "领英",
+    "nameEn": "LinkedIn",
+    "url": "https://www.linkedin.com",
+    "cat": 4,
+    "desc": "职业社交与招聘",
+    "icon": "Li",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "领英",
+      "LinkedIn",
+      "职业社交与招聘"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-xiaohongshu",
+    "name": "小红书",
+    "nameZh": "小红书",
+    "nameEn": "Rednote",
+    "url": "https://www.xiaohongshu.com",
+    "cat": 4,
+    "desc": "生活分享与兴趣社区",
+    "icon": "Re",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "小红书",
+      "Rednote",
+      "生活分享与兴趣社区"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-skyscanner",
+    "name": "天巡机票",
+    "nameZh": "天巡机票",
+    "nameEn": "Skyscanner",
+    "url": "https://www.skyscanner.co.nz",
+    "cat": 16,
+    "desc": "航班与旅行比价",
+    "icon": "Sk",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "天巡机票",
+      "Skyscanner",
+      "航班与旅行比价"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-workbuddy",
+    "name": "WorkBuddy",
+    "nameZh": "",
+    "nameEn": "WorkBuddy",
+    "url": "https://www.workbuddy.ai",
+    "cat": 0,
+    "desc": "腾讯 AI 办公智能体",
+    "icon": "Te",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "腾讯 WorkBuddy",
+      "Tencent WorkBuddy",
+      "腾讯 AI 办公智能体"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-metaso",
+    "name": "秘塔 AI 搜索",
+    "nameZh": "秘塔 AI 搜索",
+    "nameEn": "Metaso",
+    "url": "https://metaso.cn",
+    "cat": 0,
+    "desc": "AI 联网搜索与研究",
+    "icon": "Me",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "秘塔 AI 搜索",
+      "Metaso",
+      "AI 联网搜索与研究"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-thingiverse",
+    "name": "Thingiverse",
+    "nameZh": "",
+    "nameEn": "Thingiverse",
+    "url": "https://www.thingiverse.com",
+    "cat": 14,
+    "desc": "三维打印模型分享",
+    "icon": "Th",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "三维模型社区",
+      "Thingiverse",
+      "thingniverse",
+      "三维打印模型分享"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-makerworld",
+    "name": "MakerWorld",
+    "nameZh": "",
+    "nameEn": "MakerWorld",
+    "url": "https://makerworld.com",
+    "cat": 14,
+    "desc": "拓竹三维打印模型社区",
+    "icon": "Ma",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "拓竹模型共享站",
+      "MakerWorld",
+      "拓竹三维打印模型社区"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-ima",
+    "name": "腾讯 ima",
+    "nameZh": "腾讯 ima",
+    "nameEn": "Tencent ima",
+    "url": "https://ima.qq.com",
+    "cat": 0,
+    "desc": "AI 知识库与问答",
+    "icon": "Te",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "腾讯 ima",
+      "Tencent ima",
+      "AI 知识库与问答"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-aliyun",
+    "name": "阿里云",
+    "nameZh": "阿里云",
+    "nameEn": "Alibaba Cloud",
+    "url": "https://www.aliyun.com",
+    "cat": 13,
+    "desc": "云计算与开发服务",
+    "icon": "Al",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "阿里云",
+      "Alibaba Cloud",
+      "云计算与开发服务"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-oshwhub",
+    "name": "立创广场",
+    "nameZh": "立创广场",
+    "nameEn": "OSHWHub",
+    "url": "https://oshwhub.com",
+    "cat": 14,
+    "desc": "立创开源硬件平台",
+    "icon": "OS",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "立创广场",
+      "OSHWHub",
+      "立创开源硬件平台"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-xda",
+    "name": "XDA Forums",
+    "nameZh": "",
+    "nameEn": "XDA Forums",
+    "url": "https://forum.xda-developers.com",
+    "cat": 13,
+    "desc": "移动设备与开发者社区",
+    "icon": "XD",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "XDA 社区",
+      "XDA Forums",
+      "移动设备与开发者社区"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-runoob",
+    "name": "菜鸟教程",
+    "nameZh": "菜鸟教程",
+    "nameEn": "Runoob",
+    "url": "https://www.runoob.com",
+    "cat": 13,
+    "desc": "编程语言与开发教程",
+    "icon": "Ru",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "菜鸟教程",
+      "Runoob",
+      "编程语言与开发教程"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-colexiu",
+    "name": "酷乐秀",
+    "nameZh": "酷乐秀",
+    "nameEn": "Colexiu",
+    "url": "https://www.colexiu.com",
+    "cat": 15,
+    "desc": "音乐学习与管乐课程",
+    "icon": "Co",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "酷乐秀",
+      "Colexiu",
+      "音乐学习与管乐课程"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-gitlab",
+    "name": "GitLab",
+    "nameZh": "",
+    "nameEn": "GitLab",
+    "url": "https://gitlab.com",
+    "cat": 13,
+    "desc": "代码托管与开发协作",
+    "icon": "Gi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "GitLab 代码托管",
+      "GitLab",
+      "代码托管与开发协作"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-gitee",
+    "name": "码云",
+    "nameZh": "码云",
+    "nameEn": "Gitee",
+    "url": "https://gitee.com",
+    "cat": 13,
+    "desc": "代码托管与开源协作",
+    "icon": "Gi",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "码云",
+      "Gitee",
+      "代码托管与开源协作"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-wenshushu",
+    "name": "文叔叔",
+    "nameZh": "文叔叔",
+    "nameEn": "Wenshushu",
+    "url": "https://www.wenshushu.cn",
+    "cat": 2,
+    "desc": "文件传输与分享",
+    "icon": "We",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "文叔叔",
+      "Wenshushu",
+      "文件传输与分享"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-itellyou",
+    "name": "MSDN 我告诉你",
+    "nameZh": "MSDN 我告诉你",
+    "nameEn": "MSDN I Tell You",
+    "url": "https://msdn.itellyou.cn",
+    "cat": 13,
+    "desc": "原版软件信息与下载资源",
+    "icon": "MS",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "MSDN 我告诉你",
+      "MSDN I Tell You",
+      "原版软件信息与下载资源"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-papercut",
+    "name": "UOA PaperCut",
+    "nameZh": "奥大打印",
+    "nameEn": "UOA PaperCut",
+    "url": "https://papercut.auckland.ac.nz",
+    "cat": 1,
+    "desc": "奥克兰大学校园打印",
+    "icon": "Uo",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "奥大打印",
+      "UoA PaperCut",
+      "奥克兰大学校园打印"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-vgms",
+    "name": "维普毕业论文管理",
+    "nameZh": "维普毕业论文管理",
+    "nameEn": "VIP Graduation System",
+    "url": "https://vgms.fanyu.com",
+    "cat": 1,
+    "desc": "毕业论文设计管理 · 选择所属学校",
+    "icon": "VI",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "维普毕业论文管理",
+      "VIP Graduation System",
+      "毕业论文设计管理 · 选择所属学校"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-starrez",
+    "name": "UOA Starrez",
+    "nameZh": "奥大宿舍",
+    "nameEn": "UOA Starrez",
+    "url": "https://accommodation.auckland.ac.nz",
+    "cat": 1,
+    "desc": "奥克兰大学住宿门户",
+    "icon": "Uo",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "奥大宿舍",
+      "UoA StarRez",
+      "奥克兰大学住宿门户",
+      "accommodation",
+      "UOA accommodation",
+      "住宿",
+      "宿舍"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-openwrt",
+    "name": "OpenWrt",
+    "nameZh": "本地路由器",
+    "nameEn": "OpenWrt",
+    "url": "http://192.168.1.1",
+    "cat": 13,
+    "desc": "本地 OpenWrt 管理 · 需连接对应网络",
+    "icon": "Op",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "local": true,
+    "tags": [
+      "本地路由器",
+      "OpenWrt",
+      "192.168.1.1",
+      "路由器",
+      "OpenWrt LuCI",
+      "本地 OpenWrt 管理 · 需连接对应网络"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-sailmapper",
+    "name": "Sailmapper",
+    "nameZh": "",
+    "nameEn": "Sailmapper",
+    "url": "https://sailmapper.net",
+    "cat": 10,
+    "desc": "用户提供地址 · 暂未核实",
+    "icon": "Sa",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "unverified": true,
+    "tags": [
+      "Sailmapper 卫星追踪",
+      "Sailmapper",
+      "用户提供地址 · 暂未核实"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-keeptrack",
+    "name": "KeepTrack",
+    "nameZh": "",
+    "nameEn": "KeepTrack",
+    "url": "https://keeptrack.space",
+    "cat": 10,
+    "desc": "三维卫星位置与轨道可视化",
+    "icon": "Ke",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "卫星轨道追踪",
+      "KeepTrack",
+      "三维卫星位置与轨道可视化"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-openinfra",
+    "name": "OpenInfraMap",
+    "nameZh": "",
+    "nameEn": "OpenInfraMap",
+    "url": "https://openinframap.org",
+    "cat": 10,
+    "desc": "能源与通信等基础设施地图",
+    "icon": "Op",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "开放基础设施地图",
+      "OpenInfraMap",
+      "能源与通信等基础设施地图"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-cablemap",
+    "name": "海底光缆地图",
+    "nameZh": "海底光缆地图",
+    "nameEn": "Submarine Cable Map",
+    "url": "https://www.submarinecablemap.com",
+    "cat": 10,
+    "desc": "海底光缆与登陆站地图",
+    "icon": "Su",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "海底光缆地图",
+      "Submarine Cable Map",
+      "海底光缆与登陆站地图"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-tencentdocs",
+    "name": "腾讯文档",
+    "nameZh": "腾讯文档",
+    "nameEn": "Tencent Docs",
+    "url": "https://docs.qq.com",
+    "cat": 2,
+    "desc": "在线文档、表格与多人协作",
+    "icon": "Te",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "腾讯文档",
+      "Tencent Docs",
+      "在线文档、表格与多人协作"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-kdocs",
+    "name": "金山文档",
+    "nameZh": "金山文档",
+    "nameEn": "KDocs",
+    "url": "https://www.kdocs.cn",
+    "cat": 2,
+    "desc": "WPS 在线文档与协作",
+    "icon": "KD",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "金山文档",
+      "KDocs",
+      "WPS 在线文档与协作"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-googledocs",
+    "name": "谷歌文档",
+    "nameZh": "谷歌文档",
+    "nameEn": "Google Docs",
+    "url": "https://docs.google.com/document/",
+    "cat": 2,
+    "desc": "在线文字文档",
+    "icon": "Go",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "谷歌文档",
+      "Google Docs",
+      "在线文字文档"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-googlesheets",
+    "name": "谷歌表格",
+    "nameZh": "谷歌表格",
+    "nameEn": "Google Sheets",
+    "url": "https://docs.google.com/spreadsheets/",
+    "cat": 2,
+    "desc": "在线电子表格",
+    "icon": "Go",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "谷歌表格",
+      "Google Sheets",
+      "在线电子表格"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-googleslides",
+    "name": "谷歌幻灯片",
+    "nameZh": "谷歌幻灯片",
+    "nameEn": "Google Slides",
+    "url": "https://docs.google.com/presentation/",
+    "cat": 2,
+    "desc": "在线演示文稿",
+    "icon": "Go",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "谷歌幻灯片",
+      "Google Slides",
+      "在线演示文稿"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-canva",
+    "name": "Canva",
+    "nameZh": "",
+    "nameEn": "Canva",
+    "url": "https://www.canva.com",
+    "cat": 2,
+    "desc": "图文与演示设计",
+    "icon": "Ca",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "在线设计",
+      "Canva",
+      "图文与演示设计"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-canvacn",
+    "name": "可画",
+    "nameZh": "可画",
+    "nameEn": "Canva China",
+    "url": "https://www.canva.cn",
+    "cat": 2,
+    "desc": "Canva 中国版设计平台",
+    "icon": "Ca",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn",
+    "tags": [
+      "可画",
+      "Canva China",
+      "Canva 中国版设计平台"
+    ],
+    "primaryLang": "zh"
+  },
+  {
+    "id": "square-m365",
+    "name": "Microsoft 365",
+    "nameZh": "",
+    "nameEn": "Microsoft 365",
+    "url": "https://www.microsoft365.com",
+    "cat": 2,
+    "desc": "Office 365 在线办公套件",
+    "icon": "Mi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "微软办公",
+      "Microsoft 365",
+      "Office 365",
+      "Office365",
+      "微软365",
+      "Office 365 在线办公套件"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "square-onedrive",
+    "name": "OneDrive",
+    "nameZh": "",
+    "nameEn": "OneDrive",
+    "url": "https://onedrive.live.com",
+    "cat": 2,
+    "desc": "云端文件存储与共享",
+    "icon": "On",
+    "source": "推荐",
+    "pin": false,
+    "region": "global",
+    "tags": [
+      "微软云盘",
+      "OneDrive",
+      "云端文件存储与共享"
+    ],
+    "primaryLang": "en"
+  },
+  {
+    "id": "more-netease",
+    "name": "网易云音乐",
+    "nameZh": "网易云音乐",
+    "nameEn": "NetEase Cloud Music",
+    "primaryLang": "zh",
+    "tags": [
+      "音乐播放与歌单",
+      "网易云",
+      "网抑云",
+      "NCM"
+    ],
+    "url": "https://music.163.com",
+    "cat": 15,
+    "desc": "音乐播放与歌单",
+    "icon": "Ne",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-qqmusic",
+    "name": "QQ 音乐",
+    "nameZh": "QQ 音乐",
+    "nameEn": "QQ Music",
+    "primaryLang": "zh",
+    "tags": [
+      "腾讯音乐与歌单",
+      "QQ音乐"
+    ],
+    "url": "https://y.qq.com",
+    "cat": 15,
+    "desc": "腾讯音乐与歌单",
+    "icon": "QQ",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-notion",
+    "name": "Notion",
+    "nameZh": "",
+    "nameEn": "Notion",
+    "primaryLang": "en",
+    "tags": [
+      "笔记、文档与知识管理",
+      "笔记",
+      "知识库"
+    ],
+    "url": "https://www.notion.com",
+    "cat": 2,
+    "desc": "笔记、文档与知识管理",
+    "icon": "No",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-translate",
+    "name": "谷歌翻译",
+    "nameZh": "谷歌翻译",
+    "nameEn": "Google Translate",
+    "primaryLang": "zh",
+    "tags": [
+      "多语言翻译",
+      "翻译",
+      "Google Fanyi"
+    ],
+    "url": "https://translate.google.com",
+    "cat": 3,
+    "desc": "多语言翻译",
+    "icon": "Go",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-zoom",
+    "name": "Zoom",
+    "nameZh": "",
+    "nameEn": "Zoom",
+    "primaryLang": "en",
+    "tags": [
+      "视频会议与在线沟通",
+      "会议",
+      "视频会议"
+    ],
+    "url": "https://www.zoom.com",
+    "cat": 4,
+    "desc": "视频会议与在线沟通",
+    "icon": "Zo",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-threads",
+    "name": "Threads",
+    "nameZh": "",
+    "nameEn": "Threads",
+    "primaryLang": "en",
+    "tags": [
+      "Meta 文字社交平台",
+      "串文"
+    ],
+    "url": "https://www.threads.com",
+    "cat": 4,
+    "desc": "Meta 文字社交平台",
+    "icon": "Th",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-tieba",
+    "name": "百度贴吧",
+    "nameZh": "百度贴吧",
+    "nameEn": "Baidu Tieba",
+    "primaryLang": "zh",
+    "tags": [
+      "主题社区与讨论",
+      "贴吧"
+    ],
+    "url": "https://tieba.baidu.com",
+    "cat": 4,
+    "desc": "主题社区与讨论",
+    "icon": "Ba",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-copilot",
+    "name": "Microsoft Copilot",
+    "nameZh": "",
+    "nameEn": "Microsoft Copilot",
+    "primaryLang": "en",
+    "tags": [
+      "微软 AI 助手",
+      "Copilot",
+      "微软助手"
+    ],
+    "url": "https://copilot.microsoft.com",
+    "cat": 0,
+    "desc": "微软 AI 助手",
+    "icon": "Mi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-perplexity",
+    "name": "Perplexity",
+    "nameZh": "",
+    "nameEn": "Perplexity",
+    "primaryLang": "en",
+    "tags": [
+      "AI 搜索与回答",
+      "AI搜索"
+    ],
+    "url": "https://www.perplexity.ai",
+    "cat": 0,
+    "desc": "AI 搜索与回答",
+    "icon": "Pe",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-wise",
+    "name": "Wise",
+    "nameZh": "",
+    "nameEn": "Wise",
+    "primaryLang": "en",
+    "tags": [
+      "换汇与跨境转账入口",
+      "换汇",
+      "汇款",
+      "TransferWise"
+    ],
+    "url": "https://wise.com/nz/",
+    "cat": 7,
+    "desc": "换汇与跨境转账入口",
+    "icon": "Wi",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-booking",
+    "name": "Booking.com",
+    "nameZh": "",
+    "nameEn": "Booking.com",
+    "primaryLang": "en",
+    "tags": [
+      "酒店与住宿预订",
+      "缤客",
+      "订房"
+    ],
+    "url": "https://www.booking.com",
+    "cat": 16,
+    "desc": "酒店与住宿预订",
+    "icon": "Bo",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-ctrip",
+    "name": "携程旅行",
+    "nameZh": "携程旅行",
+    "nameEn": "Ctrip",
+    "primaryLang": "zh",
+    "tags": [
+      "机票、酒店与旅行预订",
+      "携程"
+    ],
+    "url": "https://www.ctrip.com",
+    "cat": 16,
+    "desc": "机票、酒店与旅行预订",
+    "icon": "Ct",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-pegasus",
+    "name": "Pegasus Rental Cars",
+    "nameZh": "",
+    "nameEn": "Pegasus Rental Cars",
+    "primaryLang": "en",
+    "tags": [
+      "新西兰租车",
+      "Pegasus",
+      "租车",
+      "NZ car hire"
+    ],
+    "url": "https://www.rentalcars.co.nz",
+    "cat": 16,
+    "desc": "新西兰租车",
+    "icon": "Pe",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-taobao",
+    "name": "淘宝",
+    "nameZh": "淘宝",
+    "nameEn": "Taobao",
+    "primaryLang": "zh",
+    "tags": [
+      "在线购物与电商"
+    ],
+    "url": "https://www.taobao.com",
+    "cat": 6,
+    "desc": "在线购物与电商",
+    "icon": "Ta",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-jd",
+    "name": "京东",
+    "nameZh": "京东",
+    "nameEn": "JD.com",
+    "primaryLang": "zh",
+    "tags": [
+      "综合购物商城",
+      "JD"
+    ],
+    "url": "https://www.jd.com",
+    "cat": 6,
+    "desc": "综合购物商城",
+    "icon": "JD",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-woolworths",
+    "name": "Woolworths",
+    "nameZh": "",
+    "nameEn": "Woolworths",
+    "primaryLang": "en",
+    "tags": [
+      "新西兰超市与日用品",
+      "Countdown",
+      "超市"
+    ],
+    "url": "https://www.woolworths.co.nz",
+    "cat": 6,
+    "desc": "新西兰超市与日用品",
+    "icon": "Wo",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-newworld",
+    "name": "New World",
+    "nameZh": "",
+    "nameEn": "New World",
+    "primaryLang": "en",
+    "tags": [
+      "新西兰超市与食品杂货",
+      "NewWorld",
+      "NW",
+      "超市"
+    ],
+    "url": "https://www.newworld.co.nz",
+    "cat": 6,
+    "desc": "新西兰超市与食品杂货",
+    "icon": "Ne",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-temu",
+    "name": "Temu",
+    "nameZh": "",
+    "nameEn": "Temu",
+    "primaryLang": "en",
+    "tags": [
+      "跨境电商购物",
+      "拼多多海外"
+    ],
+    "url": "https://www.temu.com",
+    "cat": 6,
+    "desc": "跨境电商购物",
+    "icon": "Te",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-warehouse",
+    "name": "The Warehouse",
+    "nameZh": "",
+    "nameEn": "The Warehouse",
+    "primaryLang": "en",
+    "tags": [
+      "新西兰综合零售",
+      "Warehouse",
+      "仓库百货"
+    ],
+    "url": "https://www.thewarehouse.co.nz",
+    "cat": 6,
+    "desc": "新西兰综合零售",
+    "icon": "Th",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-amazon",
+    "name": "亚马逊",
+    "nameZh": "亚马逊",
+    "nameEn": "Amazon",
+    "primaryLang": "zh",
+    "tags": [
+      "亚马逊澳洲站",
+      "Amazon Australia",
+      "澳洲亚马逊"
+    ],
+    "url": "https://www.amazon.com.au",
+    "cat": 6,
+    "desc": "亚马逊澳洲站",
+    "icon": "Am",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-zhuanzhuan",
+    "name": "转转",
+    "nameZh": "转转",
+    "nameEn": "Zhuanzhuan",
+    "primaryLang": "zh",
+    "tags": [
+      "二手交易与回收"
+    ],
+    "url": "https://www.zhuanzhuan.com",
+    "cat": 6,
+    "desc": "二手交易与回收",
+    "icon": "Zh",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "more-soundcloud",
+    "name": "SoundCloud",
+    "nameZh": "",
+    "nameEn": "SoundCloud",
+    "primaryLang": "en",
+    "tags": [
+      "音乐与音频社区",
+      "Sound Cloud"
+    ],
+    "url": "https://soundcloud.com",
+    "cat": 15,
+    "desc": "音乐与音频社区",
+    "icon": "So",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-shazam",
+    "name": "Shazam",
+    "nameZh": "",
+    "nameEn": "Shazam",
+    "primaryLang": "en",
+    "tags": [
+      "音乐识别与歌曲发现",
+      "听歌识曲",
+      "识曲"
+    ],
+    "url": "https://www.shazam.com",
+    "cat": 15,
+    "desc": "音乐识别与歌曲发现",
+    "icon": "Sh",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  },
+  {
+    "id": "more-xcurrency",
+    "name": "极简汇率",
+    "nameZh": "极简汇率",
+    "nameEn": "xCurrency",
+    "primaryLang": "zh",
+    "tags": [
+      "汇率查询与换算应用入口",
+      "汇率",
+      "极简",
+      "货币换算"
+    ],
+    "url": "https://www.xcurrency.cn/xcurrency.html",
+    "cat": 3,
+    "desc": "汇率查询与换算应用入口",
+    "icon": "xC",
+    "source": "推荐",
+    "pin": false,
+    "region": "cn"
+  },
+  {
+    "id": "keyboard-applemaps",
+    "name": "苹果地图",
+    "nameZh": "苹果地图",
+    "nameEn": "Apple Maps",
+    "primaryLang": "zh",
+    "tags": [
+      "地图",
+      "导航",
+      "Apple Maps"
+    ],
+    "url": "https://maps.apple.com",
+    "cat": 5,
+    "desc": "苹果地图网页版",
+    "icon": "AM",
+    "source": "推荐",
+    "pin": false,
+    "region": "global"
+  }
+]
